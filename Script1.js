@@ -1,30 +1,4 @@
-// JavaScript source code
-/* ---------Main-----
-var person = {
-    name: 'Sarah',
-    country: 'US',
-    age: 35,
-    treehouseStudent: true,
-    skills: ['JavaScript', 'HTML', 'CSS']
-};
-
-function print(message) {
-    var div = document.getElementById('output');
-    div.innerHTML = message;
-}
-
-
-var mess = '<p> Hello, My name is ' + person.name + '</p>';
-
-mess += '<p> The skills I have are ' + person.skills[0] + ', ' + person.skills[1] + '</p>';
-mess += '<p>However, I have ' + person.skills.length + ' Skills in total </p>';
-print(mess);
-
-for (var i in person) {
-    console.log(i,": ", person[i]);
-}
-   */
-
+//JavaScript
 
 var message = '';
 var student;
